@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"time"
 
-	"tux21b.org/v1/gocql/uuid"
+	"github.com/MediaMath/gocql/uuid"
 )
 
 // Marshaler is the interface implemented by objects that can marshal
